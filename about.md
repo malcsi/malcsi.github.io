@@ -18,6 +18,6 @@ published: true
 
 **Ana-Maria is heavily involved in studying and building websites, with a particular emphasis on fusing her visual arts background with online design.**
 
-### Contact me
+### Contact 
 
 [ana_horhoianu@yahoo.com](mailto:email@domain.com)
