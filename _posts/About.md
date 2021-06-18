@@ -1,16 +1,7 @@
 ---
 layout: post
-title: ' About '
+title: Art and technology
 published: true
 ---
-**Ana-Maria Horhoianu has been a visual artist since she was in elementary school. She discovered coding in March 2021 and became quite enthusiastic about pursuing it as a career.**
 
-**She enrolled at The Coders Guild's JAMStack Bootcamp in late May. She is now comfortable dealing with:**
-- HTML5, CSS3, SASS
-- JavaScript and Jquery
-- APIs integration
-- Adobe Photoshop CC
-- SSG and CMS
-
-
-**Ana-Maria is heavily involved in studying and building websites, with a particular emphasis on fusing her visual arts background with online design.**
+Nothing is more remarkable than the ability to express oneself. As painters, we might use a blank canvas to create something spectacular, or we might imagine our computer programmes as digital canvases. After approaching the art of coding, I realised how strong the relationship between the two can be, programming is an extremely creative profession, it’s logic-based creativity. It requires shaping code into works of art that can stand the test of time. As a result, I am certain that technology and art have been partners from the beginning, and I am grateful to be able to mix them both.
