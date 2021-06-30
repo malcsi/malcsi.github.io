@@ -1,23 +1,27 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 published: true
 ---
 
-**Ana-Maria Horhoianu has been a visual artist since she was in elementary school. She discovered coding in March 2021 and became quite enthusiastic about pursuing it as a career.**
 
 
-**She enrolled at The Coders Guild's JAMStack Bootcamp in late May. She is now comfortable dealing with:**
-- HTML5, CSS3, SASS
+**I've been a visual artist since elementary
+school. Earlier this year, I became really
+interested in learning about and developing
+applications and websites, with a focus on
+combining my creative background with
+responsive web designs.**
+
+
+**I enrolled at The Coders Guild's JAMStack Bootcamp in late May. Now I am comfortable dealing with:**
+- HTML5, CSS3
+- Bootstrap
 - JavaScript and Jquery
-- APIs integration
+- Netlify CMS
 - Adobe Photoshop CC
-- SSG and CMS
-
-
-**Ana-Maria is heavily involved in studying and building websites, with a particular emphasis on fusing her visual arts background with online design.**
-
+- Git / Github
 ### Contact 
 
 [ana_horhoianu@yahoo.com](mailto:email@domain.com)
