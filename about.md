@@ -8,11 +8,15 @@ published: true
 
 
 **I've been a visual artist since elementary
-school. Earlier this year, I became really
+school. Earlier this year, I became heavily
 interested in learning about and developing
 applications and websites, with a focus on
 combining my creative background with
-responsive web designs.**
+responsive web designs. I am a quick
+learner with a flexible mindset willing to
+overcome challenges and start a new
+career.
+**
 
 
 **I enrolled at The Coders Guild's JAMStack Bootcamp in late May. Now I am comfortable dealing with:**
